@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="469fb8c1-ff83-4812-8f48-5f62d66919cf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XTJ1nYhdx2EUBtwCYp03zDriZ9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Android JUnit.LychrelTest">
+    <configuration name="LychrelTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LychrelTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lychrel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lychrel" />
+      <option name="MAIN_CLASS_NAME" value="lychrel.LychrelTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LychrelTest.facts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LychrelTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lychrel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lychrel" />
+      <option name="MAIN_CLASS_NAME" value="lychrel.LychrelTest" />
+      <option name="METHOD_NAME" value="facts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LychrelTest.nonPalindromes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LychrelTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lychrel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lychrel" />
+      <option name="MAIN_CLASS_NAME" value="lychrel.LychrelTest" />
+      <option name="METHOD_NAME" value="nonPalindromes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LychrelTest.palindromes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LychrelTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lychrel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lychrel" />
+      <option name="MAIN_CLASS_NAME" value="lychrel.LychrelTest" />
+      <option name="METHOD_NAME" value="palindromes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LychrelTest.reversals" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LychrelTest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lychrel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="lychrel" />
+      <option name="MAIN_CLASS_NAME" value="lychrel.LychrelTest" />
+      <option name="METHOD_NAME" value="reversals" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Android JUnit.LychrelTest" />
+        <item itemvalue="JUnit.LychrelTest.reversals" />
+        <item itemvalue="JUnit.LychrelTest.nonPalindromes" />
+        <item itemvalue="JUnit.LychrelTest.palindromes" />
+        <item itemvalue="JUnit.LychrelTest.facts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="469fb8c1-ff83-4812-8f48-5f62d66919cf" name="Default Changelist" comment="" />
+      <created>1581063938754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581063938754</updated>
+      <workItem from="1581063943543" duration="4530000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="168" y="151" width="1256" height="547" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1581066358329">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="168" y="151" width="1256" height="547" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1600.860@0.0.1600.860" timestamp="1581066358329" />
+    <state width="1396" height="182" key="GridCell.Tab.0.bottom" timestamp="1581068692066">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1396" height="182" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1581068692066" />
+    <state width="1396" height="182" key="GridCell.Tab.0.center" timestamp="1581068692066">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1396" height="182" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1581068692066" />
+    <state width="1396" height="182" key="GridCell.Tab.0.left" timestamp="1581068692066">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1396" height="182" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1581068692066" />
+    <state width="1396" height="182" key="GridCell.Tab.0.right" timestamp="1581068692066">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1396" height="182" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1581068692066" />
+    <state width="1396" height="227" key="GridCell.Tab.1.bottom" timestamp="1581068319502">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1396" height="227" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1581068319502" />
+    <state width="1396" height="227" key="GridCell.Tab.1.center" timestamp="1581068319502">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1396" height="227" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1581068319502" />
+    <state width="1396" height="227" key="GridCell.Tab.1.left" timestamp="1581068319502">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1396" height="227" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1581068319502" />
+    <state width="1396" height="227" key="GridCell.Tab.1.right" timestamp="1581068319502">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1396" height="227" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1581068319502" />
+    <state x="500" y="319" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1581064168453">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="500" y="319" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1600.860@0.0.1600.860" timestamp="1581064168453" />
+    <state x="459" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1581065247358">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="459" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1600.860@0.0.1600.860" timestamp="1581065247358" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lychrel/Lychrel.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
